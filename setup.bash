@@ -10,4 +10,4 @@ cd /home/ubuntu/RaspberryPiMouse/src/drivers/
 
 echo 0 > /dev/rtmotoren0
 
- #Written by uberogay
+ #Written by uberogarec
